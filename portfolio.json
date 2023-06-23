@@ -1,0 +1,8 @@
+{
+    "title": "CAB203 Coin Betting Algorithm",
+    "description": "This project is an assignment for CAB203, focusing on implementing algorithms for making bets on coin flips. The Python script includes a text censoring function and a betting strategy function based on previous outcomes and odds. The betting function uses a probabilistic approach to decide whether to bet on heads, tails, or not to bet, in a series of coin flips, aiming to maximize profit. ",
+    "type": "Assignment",
+    "photo": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/9b/a5/e69ba5d8-576d-2d12-4fb3-6c511061e785/source/512x512bb.jpg",
+    "tags": "Python, Algorithms, Probabilities, CAB203",
+    "related_projects": ""
+}
